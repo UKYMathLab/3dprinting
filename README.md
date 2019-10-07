@@ -2,11 +2,11 @@
 
 ## TODO
 1. Rulings
-2. Clebsh surface with 27 lines
+2. Clebsch surface with 27 lines (full surface / surface with embossed lines / just lines)
 3. Nested rulings
 4. Triangular cylinder subdivsion with magnets
 5. Triangular cylinder barycentric subdivision with magnets
-6. Cube with cubic projections (?) inside
+6. Cube skeleton with twisted cubic curve inside, and with projections in three faces (same w/ other parametric curves).
 
 
 
