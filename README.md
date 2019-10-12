@@ -18,3 +18,8 @@
 4. Integration with spherical coordinates (Calculus III)
 5. Clebsh surface with 27 lines
 
+
+## Miscellaneous Notes
+1. Need file hosting service for large files like .stl and .blend files (Google Drive is sufficient)
+2. TODO list does not necessarily indicate completion order, only priority, usually determined by "first come, first served" and level of difficulty
+
